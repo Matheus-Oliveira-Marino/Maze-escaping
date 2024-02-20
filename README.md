@@ -16,8 +16,11 @@ go to ```src/Main.java``` then you will find this:
 
 ![Quick guide](https://github.com/Matheus-Oliveira-Marino/Maze-escaping/assets/139178883/65dea788-9351-4b5f-a07b-b41374dc150a)
 
-> Change the ```@path``` where the project is located until you get to ```labyrynths for testing```
+
+<p align = "center"> <code> Change the ```@path``` where the project is located until you get to ```labyrynths for testing```
 right location in your machine.
+  </code>
+</p>
 
 * Windows: "`your drive letter`:\\Users\\`your user`\\```where you saved this project```\\Maze escaping\\project\\src\\labyrynths for testing\\"
 
