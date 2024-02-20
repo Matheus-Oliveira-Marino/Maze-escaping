@@ -679,6 +679,7 @@ public class Labirinto
      @param l parâmetro para se fazer cópias, ao chamar o método 'clone()' para algum objeto.
      @throws Exception retorna um erro caso um objeto da mesma classe não exista.
      */
+    @SuppressWarnings("static-access")
     public Labirinto(Labirinto l) throws Exception
     {
         if (l ==null)

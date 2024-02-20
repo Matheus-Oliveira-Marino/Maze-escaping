@@ -64,6 +64,7 @@ public class Fila <X>
      @param x parâmetro para cópia.
      @return retorna um objeto da classe genérica,
      */
+    @SuppressWarnings("unchecked")
     public X meuClonedeX(X x)
     {
         X ret = null;
@@ -195,11 +196,10 @@ public class Fila <X>
     public boolean equals(Object obj)
     {
         if(this == obj) return true;
-        if(this == null) return false;
-
-
+       
         if(this.getClass() != obj.getClass()) return false;
 
+        @SuppressWarnings("rawtypes")
         Fila fila = (Fila)obj;
 
         for(int i = 0; i < this.elem.length; i++)

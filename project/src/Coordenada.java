@@ -1,6 +1,3 @@
-import java.nio.channels.ClosedChannelException;
-import java.util.Arrays;
-
 public class Coordenada implements Cloneable
 {
 

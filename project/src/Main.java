@@ -1,7 +1,4 @@
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main
@@ -21,6 +18,7 @@ public class Main
          @param modelo a instância da classe AgendaConsultavel a ser usada como
          modelo.
          */
+            @SuppressWarnings("resource")
             Scanner teclado = new Scanner(System.in);
 
             System.out.println("Digite qual o labirinto a ser usado:");

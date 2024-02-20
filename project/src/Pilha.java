@@ -8,6 +8,8 @@ public class Pilha <X> implements Cloneable
     private int ultimo=-1;
 
     private int contador;
+    
+    @SuppressWarnings("unused")
     private int tamanho;
 
 
@@ -92,6 +94,7 @@ public class Pilha <X> implements Cloneable
      @return retorna um objeto da tipagem especificada pela classe genérica.
      @throws Exception caso a variável usada para percorrer os índices do vetor seja nula.
      */
+    @SuppressWarnings("unchecked")
     public X recupereUmItem () throws Exception
     {
         if (this.ultimo==-1)
@@ -152,6 +155,7 @@ public class Pilha <X> implements Cloneable
      @param x parâmetro para cópia.
      @return retorna um objeto da classe genérica,
      */
+    @SuppressWarnings("unchecked")
     private X meuCloneDeX(X x)
     {
         X ret = null;
@@ -213,6 +217,7 @@ public class Pilha <X> implements Cloneable
      @return retorna um boolean.
      @param obj objeto que será comparado na chamada do método e virá como parâmetro.
      */
+    @SuppressWarnings("unchecked")
     public boolean equals (Object obj)
     {
         if(this==obj)
