@@ -16,7 +16,7 @@ go to ```src/Main.java``` then you will find this:
 
 ![Quick guide](https://github.com/Matheus-Oliveira-Marino/Maze-escaping/assets/139178883/65dea788-9351-4b5f-a07b-b41374dc150a)
 
-<p align="center">
+<p align="center" style="background-color: rgba(245, 245, 245, 0.5); backdrop-filter: blur(10px);">
   <code>
     Change the <code>@path</code> where the project is located until you get to <code>labyrinths for testing</code> the right location on your machine.
   </code>
