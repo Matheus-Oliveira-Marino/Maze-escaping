@@ -1,6 +1,6 @@
 # Maze Escaping
 
-- [ ] Maze Escaping is a project developed using Java language where players navigate through a labyrinth, aiming to find the exit.
+- [ ] Maze Escaping is a project developed using Java language where a character navigate through a labyrinth, aiming to find the exit.
 
 ## Goal
 
