@@ -29,7 +29,7 @@ public class Main
              @param nomeArquivo o nome do arquivo.
              @throws IOException se o nome estiver incorreto ou não for encontrado.
              */
-           BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\maths\\Desktop\\CotucaPC\\3º Semestre\\DS 301 - Estrutura de Dados\\Projetos\\Projeto 1\\src\\" + nomeArquivo));
+           BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\maths\\Desktop\\Hangman Game\\project\\src\\labyrynths for testing\\" + nomeArquivo));
            try
            {
                 linha = Integer.parseInt(in.readLine());
