@@ -12,14 +12,17 @@
 
 
 - [ ] Inside this [folder](https://github.com/Matheus-Oliveira-Marino/Maze-escaping/tree/main/project/src/labyrynths%20for%20testing) you can find ```.txt``` files the program reads, validating first and then, if is it correct, then building the maze and starting the movement. To select the ```.txt``` you want, 
-go to ```src/Main.java``` then you will find this: 
+go to ```src/Main.java``` then you will find this:
+
+<br>
 
 ![Quick guide](https://github.com/Matheus-Oliveira-Marino/Maze-escaping/assets/139178883/65dea788-9351-4b5f-a07b-b41374dc150a)
 
+<br>
 
 > Change the `@path` to the location where the project is stored, up until you reach the `labyrinths for testing` folder, in the correct directory on your machine.
 <br></br>
-<br>
+
 
 * Windows: "`your drive letter`:\\Users\\`your user`\\```where you saved this project```\\Maze escaping\\project\\src\\labyrynths for testing\\"
 
