@@ -1,4 +1,3 @@
-package classes;
 import java.util.Objects;
 
 public class Labirinto
