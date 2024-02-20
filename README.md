@@ -18,6 +18,7 @@ go to ```src/Main.java``` then you will find this:
 
 
 > Change the `@path` to the location where the project is stored, up until you reach the `labyrinths for testing` folder, in the correct directory on your machine.
+<br></br>
 
 * Windows: "`your drive letter`:\\Users\\`your user`\\```where you saved this project```\\Maze escaping\\project\\src\\labyrynths for testing\\"
 
