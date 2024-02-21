@@ -30,6 +30,7 @@ public class Main
              @throws IOException se o nome estiver incorreto ou não for encontrado.
              */
            BufferedReader in = new BufferedReader(new FileReader("C:\\Users\\maths\\Desktop\\Maze escaping\\project\\src\\labyrynths for testing\\" + nomeArquivo));
+           
            try
            {
                 linha = Integer.parseInt(in.readLine());
