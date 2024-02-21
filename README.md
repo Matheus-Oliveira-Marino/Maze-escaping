@@ -1,4 +1,4 @@
-# Maze Escaping
+# Maze Escaping :runner:
 
 - [ ] Maze Escaping is a project developed using Java language where a character navigate through a labyrinth, aiming to find the exit.
 
