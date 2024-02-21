@@ -26,9 +26,9 @@ go to ```src/Main.java``` then you will find this:
 <br></br>
 
 
-* Windows: "`your drive letter`:\\Users\\`your user`\\```where you saved this project```\\Maze escaping\\project\\src\\labyrynths for testing\\"
+* Windows: "`your drive letter`:\\\Users\\\\`your user`\\\\```where you saved this project```\\\\Maze escaping\\\\project\\\\src\\\\labyrynths for testing\\\\ + "
 
-* Linux: "/home/your user/```where you saved this project```/Maze escaping/project/src/labyrinths for testing/"
+* Linux: "/home/your user/```where you saved this project```/Maze escaping/project/src/labyrinths for testing/ + "
 
 ## Folder Structure
 
