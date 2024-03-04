@@ -2,8 +2,6 @@
 
 - [ ] Maze Escaping is a project developed using Java language where a character navigate through a labyrinth, aiming to find the exit.
 
-<br>
-
 ## Feature
 
 - [ ] The objective is to escape from the maze, starting from an entry point defined by "__*E*__" and reaching an exit point marked as "__*S*__". Walls are represented by "__*#*__". During the journey, if the character encounters multiple paths, they randomly choose which one to follow. If the selected option does not lead to "__*S*__" and there are walls all around, the character returns to the point where he initiated his choice decision and goes on by choosing another one.
@@ -16,6 +14,7 @@
 
 - [ ] Download VSCode according to your OS by clicking [here.](https://code.visualstudio.com/download)
 
+<br>
 
 - [ ] Inside this [folder](https://github.com/Matheus-Oliveira-Marino/Maze-escaping/tree/main/project/src/labyrynths%20for%20testing) you can find ```.txt``` files the program reads, validating first and then, if is it correct, then building the maze and starting the movement. To select the ```.txt``` you want, 
 go to ```src/Main.java``` then you will find this:
