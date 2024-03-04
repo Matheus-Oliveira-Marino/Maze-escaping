@@ -7,6 +7,7 @@
 - [ ] The objective is to escape from the maze, starting from an entry point defined by "__*E*__" and reaching an exit point marked as "__*S*__". Walls are represented by "__*#*__". During the journey, if the character encounters multiple paths, they randomly choose which one to follow. If the selected option does not lead to "__*S*__" and there are walls all around, the character returns to the point where he initiated his choice decision and goes on by choosing another one.
 
 <br>
+
  - [ ] Inside the `labyrinths for testing` folder, there are multiple files with the `.txt` extension representing various mazes to be constructed. However, not all of them are valid; some have, for instancce, more than one entrance or more than one exit, while others do not have any or only one of both, and so on. The files "__*Test1.txt*__" to "*__Test6.txt*__" are valid mazes for building. The user selects the file name using an object of the `Scanner` class. Through a `Buffered Reader`, the file choice in the pre-selected path is captured, and then the construction begins, followed by movement, represented by the `#` character.
 
 ## Quick Tips
